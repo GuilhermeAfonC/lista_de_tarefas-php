@@ -1,1 +1,46 @@
+============================================
+SCRIPT DE CRIAÇÃO DO BANCO DE DADOS
+Lista de Tarefas - PHP + MySQL
+============================================
 
+-- Criar o banco de dados
+CREATE DATABASE lista_tarefas_db
+CHARACTER SET utf8mb4
+COLLATE utf8mb4_unicode_ci;
+
+USE lista_tarefas_db;
+
+-- Criar a tabela de tarefas
+CREATE TABLE tarefas (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    texto_tarefa VARCHAR(255) NOT NULL,
+    data_criacao TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+    INDEX idx_data (data_criacao)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+
+============================================
+DADOS DE EXEMPLO (OPCIONAL)
+Descomente as linhas abaixo para inserir exemplos
+============================================
+
+-- INSERT INTO tarefas (texto_tarefa) VALUES 
+-- ('Estudar PHP e MySQL'),
+-- ('Fazer exercícios de programação'),
+-- ('Revisar conceitos de segurança web');
+
+============================================
+CONSULTAS ÚTEIS
+============================================
+
+-- Ver todas as tarefas
+-- SELECT * FROM tarefas ORDER BY id DESC;
+
+-- Contar total de tarefas
+-- SELECT COUNT(*) as total FROM tarefas;
+
+-- Limpar todas as tarefas (CUIDADO!)
+-- TRUNCATE TABLE tarefas;
+
+============================================
+FIM DO SCRIPT
+============================================
