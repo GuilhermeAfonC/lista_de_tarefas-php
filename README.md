@@ -139,7 +139,6 @@ Contribuições são bem-vindas!
 
 Desenvolvido por **[Guilherme Afonso Carvalho]** durante o aprendizado de PHP e MySQL.
 
-- GitHub: [GuilhermeAfonC](https://github.com/GuilhermeAfonC)
 - LinkedIn: www.linkedin.com/in/guilhermeafonsocarvalho-tic
 - Email: afonsocarvalhoguilherme@gmail.com
 
