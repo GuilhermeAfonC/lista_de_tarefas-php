@@ -120,19 +120,10 @@ $conn->set_charset("utf8mb4");
 - **Sanitização de dados**: htmlspecialchars() e trim()
 - **Design Responsivo**: Adapta-se a diferentes tamanhos de tela
 
-## Melhorias Futuras
-
-- [ ] Marcar tarefas como concluídas
-- [ ] Editar tarefas existentes
-- [ ] Filtros (concluídas/pendentes)
-- [ ] Paginação para muitas tarefas
-- [ ] Sistema de categorias/tags
-- [ ] Autenticação de usuários
-
 
 ## Contribuições
 
-Contribuições são bem-vindas! 
+Caso deseje comentar ou adicionar algo, contribuições são bem-vindas! 
 
 
 ## Autor
