@@ -133,5 +133,13 @@ Desenvolvido por **[Guilherme Afonso Carvalho]** durante o aprendizado de PHP e 
 - LinkedIn: www.linkedin.com/in/guilhermeafonsocarvalho-tic
 - Email: afonsocarvalhoguilherme@gmail.com
 
+## Projeto em funcionamento:
+
+<img width="1358" height="633" alt="Lista_apenas_tela" src="https://github.com/user-attachments/assets/5fcf7026-a315-4fd1-82e9-fd666055daa3" />
+
+<img width="475" height="317" alt="Com tarefas cadastradas" src="https://github.com/user-attachments/assets/15542b5c-04b6-4ee2-8109-6de5e433ba75" />
+
+<img width="554" height="310" alt="Menos 1 tarefa_exclusão" src="https://github.com/user-attachments/assets/d4161f34-4158-4271-adac-03613663391f" />
+
 
 
